@@ -187,4 +187,3 @@ cc = cc(1+unpadSize(1,1):end-unpadSize(2,1),...
     1+unpadSize(1,2):end-unpadSize(2,2));
 
 end
-
